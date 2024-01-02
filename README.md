@@ -1,7 +1,11 @@
 # cover-page-design
 ## AIM:
 To develop a website to display the cover page design of a book
+
+
 ## Design Steps:
+
+
 ## Step 1:Create a Django Admin project.
 ## Step 2: Create an app in the Django interface.
 ## Step 3: Create a folder named 'static' in the app folder.
